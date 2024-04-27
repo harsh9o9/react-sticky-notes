@@ -17,3 +17,6 @@ NOTE: I have created this simple dummy notes website to showcase the hook. Its j
 ### Behaviour:
 https://github.com/harsh9o9/react-sticky-notes/assets/90497185/42f4eb9c-5afc-47bc-84ad-d0d9deaf3a3f
 
+### Performace graph when a note is moved:
+<img width="1674" alt="Screenshot 2024-04-27 at 11 13 23 PM" src="https://github.com/harsh9o9/react-sticky-notes/assets/90497185/2d4eeb96-5c1b-419b-a542-79eb29acb4f4">
+
